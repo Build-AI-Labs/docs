@@ -10,11 +10,11 @@ Before onboarding your team to our platform, we want to ensure we have the prope
 
 We offer these GPUs at extremely competitive prices. See pricing below or [learn more here](https://trybuild.ai).
 
-| Chip Type         | Predictable Spot Pricing                 | Guaranteed Uptime Pricing                            |
-| ----------------- | ---------------------------------------- | ---------------------------------------------------- |
-| A100 40GB (SXM)   | $1.05/gpu/hr                             | $1.42/gpu/hr                                         |
-| A100 80GB (SXM)   | $1.45/gpu/hr                             | $1.97/gpu/hr                                         |
-| H100 80GB (SXM)\* | $2.79/gpu/hr (\*22.32/hr for all 8 GPUs) | <p>$3.85/gpu/hr</p><p>($30.80/hr for all 8 GPUs)</p> |
+| Chip Type         | Predictable Spot Pricing                  | Guaranteed Uptime Pricing                            |
+| ----------------- | ----------------------------------------- | ---------------------------------------------------- |
+| A100 40GB (SXM)   | $1.05/gpu/hr                              | $1.42/gpu/hr                                         |
+| A100 80GB (SXM)   | $1.45/gpu/hr                              | $1.97/gpu/hr                                         |
+| H100 80GB (SXM)\* | $2.79/gpu/hr (\*$22.32/hr for all 8 GPUs) | <p>$3.85/gpu/hr</p><p>($30.80/hr for all 8 GPUs)</p> |
 
 Notes on chip types:&#x20;
 

@@ -1,14 +1,20 @@
 # Hardware Selection & Payment
 
-Before onboarding your team to our platform, we want to ensure we have the proper hardware to support your AI workloads. Today, we offer the following hardware
+Before onboarding your team to our platform, we want to ensure we have the proper hardware to support your AI workloads. Today, we offer the following hardware&#x20;
 
-&#x20;
+| Chip         | VRAM | RAM  | RAM     | Storage      |
+| ------------ | ---- | ---- | ------- | ------------ |
+| A100 (SXM)   | 40GB | 15.5 | 200 GiB | 512 GiB SSD  |
+| A100 (SXM)   | 80GB | 30   | 225 GiB | 2.5 TiB SSD  |
+| H100 (SXM)\* | 80GB | 26   | 225 GiB | 3.25 TiB SSD |
 
 We offer these GPUs at extremely competitive prices. See pricing below or [learn more here](https://trybuild.ai).
 
-
-
-<table data-full-width="true"><thead><tr><th>Chip Type</th><th>Predictable Spot Pricing</th><th>Guaranteed Uptime Pricing</th></tr></thead><tbody><tr><td>A100 40GB (SXM)</td><td>$1.05/gpu/hr </td><td>$1.42/gpu/hr</td></tr><tr><td>A100 80GB (SXM)</td><td>$1.45/gpu/hr </td><td>$1.97/gpu/hr</td></tr><tr><td>H100 80GB (SXM)*</td><td>$2.79/gpu/hr<br><br>(*22.32/hr for all 8 GPUs)</td><td><p>$3.85/gpu/hr </p><p></p><p>($30.80/hr for all 8 GPUs)</p></td></tr></tbody></table>
+| Chip Type         | Predictable Spot Pricing                 | Guaranteed Uptime Pricing                            |
+| ----------------- | ---------------------------------------- | ---------------------------------------------------- |
+| A100 40GB (SXM)   | $1.05/gpu/hr                             | $1.42/gpu/hr                                         |
+| A100 80GB (SXM)   | $1.45/gpu/hr                             | $1.97/gpu/hr                                         |
+| H100 80GB (SXM)\* | $2.79/gpu/hr (\*22.32/hr for all 8 GPUs) | <p>$3.85/gpu/hr</p><p>($30.80/hr for all 8 GPUs)</p> |
 
 Notes on chip types:&#x20;
 

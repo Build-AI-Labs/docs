@@ -11,4 +11,4 @@ We offer Nvidia A100 and H100 GPUs optimized for distributed training, either av
 
 [Request access to our private beta here.](https://hrvsen390v8.typeform.com/to/NsMlxksc?utm\_source=docs)
 
-Not familiar with Build AI? [Learn more here](https://www.notion.so/Build-AI-Documentation-2e9ae13def72412183fe65e902461ec2?pvs=21).
+Not familiar with Build AI? [Learn more here](https://trybuild.ai).

@@ -9,7 +9,6 @@
 
 * [Logging in to your VM](environment-setup/logging-in-to-your-vm.md)
 * [Code & Env Setup](environment-setup/code-and-env-setup.md)
-* [Remote Data Storage](environment-setup/remote-data-storage.md)
 
 ## Training
 
